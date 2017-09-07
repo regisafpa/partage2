@@ -15,7 +15,9 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bonjour regis : version 1");
+        System.out.println("Bonjour regis : version 2 ****");
+         System.out.println("ligne 2");
+          
     }
     
 }
